@@ -1,4 +1,4 @@
-# Learned about Git and Github from Hitesh Choudary Sir
+# Learned about Git and Github.
 
 ## Install
 
